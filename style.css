@@ -5,20 +5,22 @@ body {
 }
 
 img {
-  width: 100%;
+  width: 70%;
   display: block;
   padding: 18 px;
+  margin: 10%;
+  padding: 4%;
 }
 
 video {
-  width: 100%;
+  width: 92%;
   display: block;
-  padding: 18 px;
+  margin: 5%;
 }
 
 iframe {
   width: 100%;
-  padding: 18 px;
+  margin: 3%;
 }
 
 @media (min-width: 800px) {
@@ -35,6 +37,10 @@ iframe {
 
 h1 {
   margin: 10px;
+}
+
+.col_tekst {
+  margin: 10%;
 }
 
 /**************menu**************/
